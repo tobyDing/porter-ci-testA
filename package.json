@@ -1,5 +1,5 @@
 {
-  "name": "myApp",
+  "name": "porter-ci-testA",
   "version": "1.0.0",
   "private": true,
   "description": "porter-cli 测试项目",
@@ -85,5 +85,3 @@
     "@types/node": "^18.15.11"
   }
 }
-
-
